@@ -98,13 +98,11 @@ I'm a passionate **Full Stack Developer** and **MCA Graduate** with a strong fou
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Profile Summary
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AnushaBokam19&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnushaBokam19&theme=tokyonight" />
+</p>
 
 ---
 
